@@ -5,6 +5,7 @@ A modern and fully responsive portfolio website built with HTML, CSS, and JavaSc
 Designed with a futuristic UI, smooth animations, interactive components, and a clean user experience.
 
 ---
+![Preview](webport.png)
 
 ## ✨ Features
 
